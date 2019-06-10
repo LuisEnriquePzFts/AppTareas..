@@ -1,0 +1,29 @@
+<resources>
+    <string name="lbl_registar">Registrar Tarea</string>
+    <string name="consultar">Consultar Tareas</string>
+    <string name="titulo">TAREAS</string>
+    <string name="app_name">AppTareas</string>
+    <string name="Tareas">Registrar Tareas</string>
+    <string name="cveTarea">Clave de tarea</string>
+    <string name="descripcion">Descripción de la tarea</string>
+    <string name="prioridad">Prioriad</string>
+    <string name="fecha">Fecha Compromiso</string>
+    <string name="estatus">Estatus Entrega</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="modificar">Gestionar Tarea</string>
+    <string name="actualizar">Actualizar</string>
+
+    <string-array name="Priodidad">
+        <item>Importante</item>
+        <item>Urgente</item>
+        <item>Normal</item>
+    </string-array>
+
+    <string-array name="Estatus">
+        <item>Prendiente</item>
+        <item>Concluido</item>
+        <item>Cancelado</item>
+    </string-array>
+
+</resources>
